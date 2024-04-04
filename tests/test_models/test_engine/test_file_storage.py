@@ -1,7 +1,4 @@
-#!/usr/bin/python3
-"""
 Contains the TestFileStorageDocs classes
-"""
 from datetime import datetime
 from models import *
 from models.engine.file_storage import FileStorage
